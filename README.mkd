@@ -1,4 +1,3 @@
-
 FullCalendar - Full-sized drag & drop event calendar
 ====================================================
 
@@ -13,6 +12,7 @@ Building from source
 --------------------
 
 You must have a Java runtime environment (accessible by the `java` command) for minification.
+Other requirements include a UNIX-based command line with the commercial version of sed installed.
 Then, run `make zip` and check the `dist/` directory for your newly created ZIP archive.
 To start fresh, run the `make clean` command.
 
